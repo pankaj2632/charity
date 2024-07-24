@@ -1,0 +1,29 @@
+/* About Us Page Styles */
+.about-us {
+    background: url('about2.png') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.about-us .content {
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 40px;
+    border-radius: 10px;
+    max-width: 800px;
+    margin: auto;
+}
+
+.about-us h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.about-us p {
+    font-size: 1.2em;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+/* Ensure to adapt the path in the background URL to where the image is stored */
